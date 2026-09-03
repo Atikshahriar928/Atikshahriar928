@@ -2,7 +2,7 @@
 
 **Aspiring Frontend Developer | UI/UX Enthusiast **
 
-I blend technical logic with creative design to build clean, responsive, and highly interactive web experiences. With a background in graphic design, I focus not just on how a web application functions under the hood, but how it feels in the hands of the user. 
+I blend technical logic with user-centric development to build clean, responsive, and highly interactive web experiences. Driven by a strong enthusiasm for full-stack development, I focus not just on crafting intuitive front-end interfaces, but also on understanding the robust back-end architecture that powers them under the hood.
 
 ### 👨‍💻 About Me
 * 🌱 **Currently Mastering:** TypeScript, React.js, and advanced responsive layouts.
