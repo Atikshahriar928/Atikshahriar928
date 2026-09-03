@@ -27,16 +27,12 @@ I blend technical logic with creative design to build clean, responsive, and hig
 
 <br>
 
-**🎨 Graphics & Design** <br>
-<img src="https://skillicons.dev/icons?i=ps,ai" alt="Design" />
 
 <br>
 
 **🔧 Tools & Technologies** <br>
 <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" />
 
-**⚛️ Frameworks & Libraries**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 
